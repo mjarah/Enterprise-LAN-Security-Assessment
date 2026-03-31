@@ -86,7 +86,7 @@ The network contains three enterprise LAN segments:
 
 ### Topology Screenshot
 
-![Topology](proof/topology.png)
+![topology](proof/topology.png)
 
 ---
 
